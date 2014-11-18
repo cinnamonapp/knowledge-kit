@@ -15,6 +15,8 @@ Links and Resources
 
 ##Talks and Videos
 - [Is the obesity crisis hiding a bigger problem?](http://www.ted.com/talks/peter_attia_what_if_we_re_wrong_about_diabetes) - great video!
+- [Sugar: The Bitter Truth](https://www.youtube.com/watch?v=dBnniua6-oM) - By Robert Lustig
+- [Mark Hyman at TEDMED 2012](https://www.youtube.com/watch?v=8dYTa6xhHlM)
 
 ##Books
 - [Good calories, bad calories](http://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462) - Watch out for [a great review](http://www.amazon.com/review/RUV7CBB5A75CY)
