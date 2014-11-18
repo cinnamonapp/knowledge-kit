@@ -9,12 +9,12 @@ This document helps us to:
 ##Why is glucose important for the general population?
 “Insulin resistance is the major cause of aging and death in the developed and most of the developing world” [The Blood Sugar Solution](http://www.amazon.com/The-Blood-Sugar-Solution-UltraHealthy/dp/031612737X)
 
-“The killer app is going to be, and I don’t know whether it will be technically possible, if you could get to a continuous glucose monitor that didn’t require you to puncture your skin into a blood vessel. That would be revolutionary. (See Google X’s effort to create contact lenses that might do just this.)
+“The killer app is going to be, and I don’t know whether it will be technically possible, if you could get to a continuous glucose monitor that didn’t require you to puncture your skin into a blood vessel. That would be revolutionary. (See [Google X’s effort](http://recode.net/2014/01/16/googles-latest-moon-shot-is-a-smart-contact-lens-for-diabetes-patients/) to create contact lenses that might do just this.)
 The fundamental thing that is driving the obesity epidemic is spiking your glucose constantly and bringing in insulin.
 So for instance, the average American drinks between 500 and 600 12-ounce sweetened drinks a year. I have none. So that means they’ve spiked their glucose 500 times a year more than I have.
 Well, your pancreas has so many shots of insulin per lifetime — that’s not quite true, but essentially. So if you’re using it up gratuitously, before long you end up insulin resistant and then all kinds of bad things happen to you.
-Two-thirds of the country is overweight or obese. Most of that is lifestyle choices because, in 1970, it wasn’t that way.
-So here’s a number. In 1970, the average American consumed one pound a year of high-fructose corn syrup. Today, it’s more than 50 pounds per year per person.”
+[Two-thirds](http://www.cdc.gov/nchs/fastats/overwt.htm) of the country is overweight or obese. Most of that is lifestyle choices because, in 1970, it wasn’t that way.
+So here’s a number. In 1970, the average American consumed one pound a year of high-fructose corn syrup. Today, it’s more than [50 pounds per year](http://blogs.scientificamerican.com/observations/2012/11/27/global-high-fructose-corn-syrup-use-may-be-fueling-diabetes-increase/) per person.”
 http://recode.net/2014/03/08/the-quantified-computer-scientist-larry-smarr-on-the-future-of-medicine/
 
 ##What can high blood glucose cause?
@@ -26,7 +26,10 @@ http://recode.net/2014/03/08/the-quantified-computer-scientist-larry-smarr-on-th
 - Nerve damage
 
 ##Sugar is an addiction
-Yale’s Rudd Center for Food Policy and Obesity has developed a scale to determine if you have food addiction. It is incredibly interesting and valuable to evaluate behaviors that are typical of people who have problems in controlling their “junk food” intake, therefore this is the focus of an app that wants to have an impact on it.
+
+![](http://ikillfatforaliving.com/wp-content/uploads/2014/04/infographsugaraddiction.jpg)
+
+Yale’s [Rudd Center for Food Policy and Obesity](http://www.yaleruddcenter.org/) has developed a scale to determine if you have food addiction. It is incredibly interesting and valuable to evaluate behaviors that are typical of people who have problems in controlling their “junk food” intake, therefore this is the focus of an app that wants to have an impact on it.
 
 http://www.yaleruddcenter.org/resources/upload/docs/what/addiction/FoodAddictionScale09.pdf
 
